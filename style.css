@@ -1,0 +1,7 @@
+.col-sm-8, .col-sm-4, .col-md-8, .col-md-4 {
+  border: 2px solid #555;
+}
+
+.row {
+  color: blue;
+}
